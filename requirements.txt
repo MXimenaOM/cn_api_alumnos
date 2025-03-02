@@ -1,0 +1,9 @@
+Flask
+flask
+flask_sqlalchemy
+sqlalchemy
+SQLAlchemy
+sqlalchemy
+psycopg2
+dotenv
+load_dotenv
